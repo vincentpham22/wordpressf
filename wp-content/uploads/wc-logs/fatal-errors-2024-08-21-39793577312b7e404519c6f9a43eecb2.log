@@ -1,0 +1,8 @@
+2024-08-21T15:42:52+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress1\wp-content\plugins\profile-builder\assets\misc\gutenberg-blocks\login\login.php à la ligne 4
+
+2024-08-21T15:45:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress1\wp-content\plugins\wordpress-seo\src\integrations\watchers\indexable-attachment-watcher.php à la ligne 18
+
+2024-08-21T15:53:27+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress1\wp-admin\includes\class-core-upgrader.php à la ligne 413
+
+2024-08-21T16:02:33+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpressf\wp-content\themes\astra\inc\builder\type\header\button\class-astra-header-button-component-loader.php à la ligne 12
+

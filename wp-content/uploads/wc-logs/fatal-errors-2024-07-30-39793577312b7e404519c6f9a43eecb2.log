@@ -1,0 +1,8 @@
+2024-07-30T10:31:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress1\wp-content\plugins\profile-builder\assets\lib\cl-add-ons-listing\cl-add-ons-listing.php à la ligne 3
+
+2024-07-30T10:32:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress1\wp-content\plugins\elementor\modules\favorites\controller.php à la ligne 5
+
+2024-07-30T10:40:56+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress1\wp-admin\includes\class-core-upgrader.php à la ligne 413
+
+2024-07-30T10:46:00+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress1\wp-admin\includes\class-wp-filesystem-direct.php à la ligne 66
+
